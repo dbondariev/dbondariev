@@ -43,8 +43,16 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbondariev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
+<h3>🔥 My Stats</h3>
+
+<img
+  src="https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun,Sat&type=svg"
+  referrerpolicy="no-referrer"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbondariev&layout=compact&theme=vision-friendly-dark"
+  referrerpolicy="no-referrer"
+/>
+
 
