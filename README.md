@@ -51,9 +51,10 @@
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbondariev&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbondariev&layout=compact&theme=vision-friendly-dark&hide_border=true"
   referrerpolicy="no-referrer"
 />
+
 
 
 
