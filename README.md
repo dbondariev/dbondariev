@@ -50,19 +50,10 @@
         src="https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun,Sat&type=svg"
         referrerpolicy="no-referrer"
       />
-  <div
-    style="
-      border: 1px solid #30363d;
-      border-radius: 9px;
-      padding: 8px;
-      background: #0d1117;
-    "
-  >
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbondariev&theme=dark"
       referrerpolicy="no-referrer"
     />
-  </div>
 </div>
 
 
