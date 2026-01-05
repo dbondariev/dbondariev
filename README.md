@@ -47,20 +47,19 @@
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <img
-        src="https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun,Sat&type=svg"
-        referrerpolicy="no-referrer"
+        src="https://streak-stats.demolab.com?user=dbondariev&theme=dark&type=svg"
       />
     </td>
-    <td width="50%" align="center">
+    <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbondariev&theme=dark"
-        referrerpolicy="no-referrer"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dbondariev&theme=github_dark"
       />
     </td>
   </tr>
 </table>
+
 
 
 
