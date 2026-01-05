@@ -51,9 +51,10 @@
 />
 
 <img
-  src="https://your-project-name.vercel.app/api/top-langs/?username=dbondariev&layout=compact&theme=vision-friendly-dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbondariev&theme=github_dark"
   referrerpolicy="no-referrer"
 />
+
 
 
 
