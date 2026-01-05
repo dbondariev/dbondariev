@@ -43,9 +43,14 @@
 
 ---
 
-<h3>🔥 My Stats</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun,Sat&type=svg&cache_seconds=1800)](https://git.io/streak-stats)
+<img
+  src="https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun,Sat&type=svg"
+  referrerpolicy="no-referrer"
+/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbondariev&layout=compact&theme=vision-friendly-dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbondariev&layout=compact&theme=vision-friendly-dark"
+  referrerpolicy="no-referrer"
+/>
 
 
