@@ -45,15 +45,23 @@
 
 <h3>🔥 My Stats</h3>
 
-<img
-  src="https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun,Sat&type=svg"
-  referrerpolicy="no-referrer"
-/>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=dbondariev&theme=dark&border_radius=9&exclude_days=Sun,Sat&type=svg"
+        referrerpolicy="no-referrer"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbondariev&theme=github_dark"
+        referrerpolicy="no-referrer"
+      />
+    </td>
+  </tr>
+</table>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbondariev&theme=github_dark"
-  referrerpolicy="no-referrer"
-/>
 
 
 
