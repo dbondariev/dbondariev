@@ -55,7 +55,7 @@
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbondariev&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbondariev&theme=dark"
         referrerpolicy="no-referrer"
       />
     </td>
